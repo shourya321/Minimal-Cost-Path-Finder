@@ -7,8 +7,7 @@ app = Flask(__name__, static_folder='../frontend/build', static_url_path='')
 cors = CORS(app)
 
 # Remove one of the CORS declarations and only keep this:
-cors = CORS(app, origins=["https://shortest-path-finder-delta.vercel.app/"])  # Replace with your Vercel URL
-
+cors = CORS(app, origins=["https://minimal-cost-path-finder.vercel.app/"])  
 
 @app.route('/')
 def hello_world():
