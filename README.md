@@ -35,7 +35,7 @@ A web application that finds the most efficient path between two points using Di
 
 ## Rendered Website
 
-https://minimal-cost-path-finder.vercel.app/
+ https://minimal-cost-path-finder.vercel.app/
 
 
 ## Used By
