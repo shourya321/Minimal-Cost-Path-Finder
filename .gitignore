@@ -1,6 +1,6 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-   backend running
-   frontend running
+# https://minimal-cost-path-finder-backend.onrender.com  backend running
+# https://minimal-cost-path-finder.vercel.app/  frontend running
 # dependencies
 /node_modules
 /.pnp
