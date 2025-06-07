@@ -1,6 +1,6 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-#https://shortest-path-finder-su4o.onrender.com    backend running
-#https://shortest-path-finder-delta.vercel.app/    frontend running
+   backend running
+   frontend running
 # dependencies
 /node_modules
 /.pnp
