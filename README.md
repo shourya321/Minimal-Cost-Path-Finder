@@ -1,12 +1,15 @@
 
-# Shortest-Path-Finder
+# Minimal-Cost-Path-Finder
 
-A brief description of what this project does and who it's for
+A web application that finds the most efficient path between two points using Dijkstra's algorithm. Designed with a clean React frontend and a Flask backend
 
 ## Features
 
-- displays the shortest distance between source and destination.
-- displays shortest path one must take to reach destintion with minimum distance
+-  Input source and destination nodes
+-  Displays shortest path and total distance
+-  Built using Dijkstra’s algorithm
+-  Visual twin maps (satellite and outline)
+-  Fully deployed frontend and backend
 
 ## API Reference
 
@@ -32,7 +35,7 @@ A brief description of what this project does and who it's for
 
 ## Rendered Website
 
-  https://shortest-path-finder-delta.vercel.app/
+ 
 
 
 ## Used By
